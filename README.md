@@ -1,3 +1,3 @@
-# airmart-grocery-project
-A combine projects
-AIR MART PROJECT
+# AIRMART - A Grocery Project
+********************************
+Developing by @sundaravelramachandran and @idevmou
